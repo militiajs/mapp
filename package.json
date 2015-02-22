@@ -1,7 +1,7 @@
 {
-  "name": "mmvc",
+  "name": "mapp",
   "version": "0.1.0",
-  "description": "mmvc ====",
+  "description": "mapp ====",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/militiajs/mmvc"
+    "url": "https://github.com/militiajs/mapp"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/militiajs/mmvc/issues"
+    "url": "https://github.com/militiajs/mapp/issues"
   },
-  "homepage": "https://github.com/militiajs/mmvc",
+  "homepage": "https://github.com/militiajs/mapp",
   "devDependencies": {
     "expect.js": "^0.3.1",
     "gulp": "^3.8.5",
