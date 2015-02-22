@@ -1,7 +1,7 @@
 {
   "name": "mapp",
   "version": "0.1.0",
-  "description": "mapp ====",
+  "description": "Supporting vanilla JavaScript applications since 2014.",
   "main": "index.js",
   "directories": {
     "test": "test"
